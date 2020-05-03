@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+.myList{
+    margin-left: -20%;
+    margin-top: 1%;
+    float: left;
+    height: 21px;
+    width: 85%;
+}
+.deleteButton{
+    width: 15% !important;
+    margin-left: 43% !important;
+    margin-top: 2% !important;
+    height: 30px !important;
+};
